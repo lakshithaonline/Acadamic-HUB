@@ -1,5 +1,3 @@
-Certainly, here's a simplified GitHub README-style introduction and features for the Academic HUB repository:
-
 # Welcome to Academic HUB Repository!
 
 ![Academic HUB Logo](link_to_logo_image)
