@@ -1,39 +1,70 @@
-Certainly, here's a simplified GitHub README-style introduction and features for the Academic HUB repository:
+# Getting Started with Create React App
 
-# Welcome to Academic HUB Repository!
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Academic HUB Logo](link_to_logo_image)
+## Available Scripts
 
-Academic HUB is your go-to resource platform designed to empower university students in their academic journey. This repository serves as the central hub for developing and maintaining the Academic HUB application. Our mission is to provide students with a comprehensive tool that enhances their learning experience and sets them up for success.
+In the project directory, you can run:
 
-## Features
+### `npm start`
 
-📚 **Resource Rich Library:** Access a wide range of study materials, lecture notes, and supplementary resources spanning various courses and subjects.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-🔍 **Research Repository:** Explore an extensive collection of academic databases, research papers, and journals to enrich your research projects.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-📚 **Virtual Library:** Dive into our digital library stocked with e-books and academic resources to supplement your learning.
+### `npm test`
 
-🌟 **Inspiring Success:** Find motivation in the stories of students who have excelled with Academic HUB.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# Tech Stack
+### `npm run build`
 
-Academic HUB is built using a modern and versatile tech stack that leverages Firebase for database management and real-time communication. Here's a breakdown of our tech choices:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Frontend
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- **React:** Our front is developed using React, a popular JavaScript library for building user interfaces. It provides a seamless and responsive experience for users.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- **Material-UI:** We've used Material-UI components to create a consistent and visually appealing design for the user interface.
+### `npm run eject`
 
-## Backend
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-- **Firebase:** Our backend heavily relies on Firebase for authentication, real-time database management, and cloud functions. Firebase offers scalability, security, and seamless integration for modern applications.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Additional Tools
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-- **Firebase Cloud Functions:** For serverless computing and custom backend functionality, we utilize Firebase Cloud Functions.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- **Firebase Authentication:** To ensure secure user access, authentication is managed through Firebase Authentication services.
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

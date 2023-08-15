@@ -1,0 +1,83 @@
+.service-page {
+    padding: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .services-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+  }
+  
+  .service-item {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service-item h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .service-item p {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  
+  .file-list {
+    width: 100%;
+  }
+  
+  .file-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .file-list th,
+  .file-list td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .file-list th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .file-list td:last-child {
+    text-align: center;
+  }
+  
+  .file-list a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .file-list button {
+    background-color: #ff9800;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+
+  .service-page {
+    padding: 50px;
+  }
+  
+
+  .upload-section button {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 20px;
+  }

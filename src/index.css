@@ -1,0 +1,11 @@
+/* Reset some default browser styles */
+body, ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set a background color for the entire app */
+.App {
+  background-color: #f4f4f4;
+  min-height: 100vh;
+}
