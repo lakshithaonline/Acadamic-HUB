@@ -7,7 +7,7 @@ const AboutUsPage = () => {
       <div className="about-content">
       <section class="about-us-section">
         <div class="container">
-            <h2>About Us</h2>
+            <h2>About Us</h2><br/><br/>
             <p>At Acadamic HUB, we believe in the transformative power of education...</p>
             <p>Our mission is clear: to empower students on their educational journey...</p>
             <p>What drives us? Education is the cornerstone of personal growth and societal progress...</p>
